@@ -1,0 +1,196 @@
+.check-put-img{
+    padding: 5px;
+    background: white;
+    /* display: block; */
+    position: relative;
+    width: 100px;
+    float: left;
+    text-align: center;
+    border: 1px solid black;
+}
+.check-put-img img{
+    width: 100%;
+    max-width: 90px;
+  
+}
+
+.check-out-product {
+    background-color: white;
+    position: relative;
+    max-width: 900px;
+    margin: 0 auto;
+}
+.check-out-product .check-put-img{
+    background-color: white;
+    position: relative;
+
+}
+.product-magin{
+    position: relative;
+    /* float: left; */
+    margin-left: 120px;
+}
+.main-check-out{
+    position: relative;
+}
+.check-pd{
+    margin-top: 20px;
+    padding: 10px;
+    width: 100%;
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid #b9abab;
+    position: relative;
+    background: #fff;
+}
+.check-out-name{
+    margin-top: 22px;
+    width: 190px;
+    float: left;
+
+}
+.ch-out-add{
+    background-color: white;
+    position: relative;
+    max-width: 900px;
+    margin: 0 auto;
+    margin-top: 52px;
+}
+.check-kc{
+    position: relative;
+    margin-left: 120px;
+}
+.clearn-pd{
+    position: absolute;
+    top:0;
+    cursor: pointer;
+    right: 0;
+    font-size: 23px;
+}
+.check-kc-name{   
+    margin-left: 10px;
+    width: 330px;
+    margin-top: 22px;
+}
+.check-kc-price{
+    margin-left: 10px;
+    width: 210px;
+}
+.check-kc-total{
+    margin-left: 10px;
+}
+.bnt-value{
+    float: left;
+    cursor: pointer;
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    text-align: center;
+    color: #828282;
+    font-size: 22px;
+    background-color: #f8f8f8;
+    border: solid 1px #dfdfdf;
+}
+.bnt-value2{
+    float: left;
+    width: 40px;
+    height: 28px;
+    text-align: center;
+    font-size: 13px;
+    color: #555;
+    border: solid 1px #e0e0e0;
+    border-left: none;
+    border-right: none;
+}
+.bnt-value i{
+    font-style: normal;
+}
+.check-out-name span {
+    font-weight: 600;
+}
+.check-sum, .check-sum1 {
+    background-color: white;
+    float: left;
+    font-size: 19px;
+    font-weight: 700;
+    color: blue;
+    width: 100%;
+    padding: 7px 0;
+}
+.check-sum1 {
+    position: absolute;
+    margin-left: 130px;
+    max-width: 200px;
+}
+.info-product{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.info-kh{
+    font-weight: 23px;
+    color: #fe1212;
+    font-weight: 600;
+}
+.btn-purchase{
+    border-color: #fe1212;
+    background-color: #fe1212;
+}
+.back-menu-right{
+    position: relative;
+    box-shadow: 0 3px 6px -4px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);    margin-top: 18px;
+    background-color: #fff;
+    justify-content: center;
+    align-items:center;
+    display: flex;
+    color: #555;
+}
+.text-h3{
+    margin-bottom: 20px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 23px !important;
+    color: rgba(0, 0, 0, 0.87);
+    font-weight: 600;
+}
+.form-group-check{
+    margin-bottom: 17px;
+    display: inline-flex;
+    width: 49%;
+    vertical-align: middle;
+}
+.row-right{
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.ticker-checkbox span{
+    
+    margin-left: 10px;
+    color: black;
+}
+.ticker-checkbox input{
+    height: 17px;
+    width: 17px;
+}
+.divider{
+    color: coral;
+    font-weight: 600;
+    font-size: 20px;
+}
+.title-back{
+    margin-left: 20px;
+}
+.title-right a{
+    margin-top: -33px;
+    position: absolute;
+    right: 210px;
+    font-size: 20px;
+    color: coral;
+    font-weight: 600;
+}
+.title-back a,title-back span{
+    color: coral;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 15px;
+}
